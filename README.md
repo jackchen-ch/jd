@@ -1,15 +1,5 @@
 ## 【青龙】拉取仓库命令：
-
-#### 可以直链github/国外机:
-`ql repo https://github.com/zero205/JD_tencent_scf.git "jd_|jx_|jdCookie"  "backUp|icon" "^jd[^_]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql" "main"`
-
-#### 国内镜像（选一个即可）:
-
-`ql repo https://hub.fastgit.xyz/zero205/JD_tencent_scf.git "jd_|jx_|jdCookie"  "backUp|icon" "^jd[^_]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql" "main"`
-
-`ql repo https://hub.0z.gs/zero205/JD_tencent_scf.git "jd_|jx_|jdCookie"  "backUp|icon" "^jd[^_]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql" "main"`
-
-`ql repo https://hub.shutcm.cf/zero205/JD_tencent_scf.git "jd_|jx_|jdCookie"  "backUp|icon" "^jd[^_]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql" "main"`
+ql repo https://github.com/jackchen-ch/jd.git
 
 
 ### (直连/镜像均不可用时,请参照下面使用直连命令并设置代理)
